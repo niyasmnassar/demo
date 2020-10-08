@@ -1,5 +1,4 @@
 {
-    "status":"success",
     "rice": [
 
         { "id": 1, "proimg": "https://reactstrap.github.io/assets/318x180.svg", "title": "Surekha Rice", "price": "40", "ourprice": "37", "quantity": "1", "type":"Kg" },
