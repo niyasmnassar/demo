@@ -1,4 +1,5 @@
-{"rice": [
+{ 
+  "productLists":  [
         {
             "id": 1,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
@@ -6,7 +7,8 @@
             "price": "40",
             "ourprice": "37",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "rice"
         },
         {
             "id": 2,
@@ -15,7 +17,8 @@
             "price": "41",
             "ourprice": "38",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "rice"
         },
         {
             "id": 3,
@@ -24,7 +27,8 @@
             "price": "42",
             "ourprice": "39",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "rice"
         },
         {
             "id": 4,
@@ -33,7 +37,8 @@
             "price": "37",
             "ourprice": "35",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "rice"
         },
         {
             "id": 5,
@@ -42,7 +47,8 @@
             "price": "37",
             "ourprice": "35",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "rice"
         },
         {
             "id": 6,
@@ -51,7 +57,8 @@
             "price": "90",
             "ourprice": "80",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "rice"
         },
         {
             "id": 7,
@@ -60,83 +67,93 @@
             "price": "110",
             "ourprice": "100",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "rice"
         },
         {
-            "id": 7,
+            "id": 8,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
             "title": "Barkath silver",
             "price": "110",
             "ourprice": "100",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "rice"
         }
-    ],"pulses": [
         {
-            "id": 1,
+            "id": 9,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
             "title": "Urad Daal",
             "price": "126",
             "ourprice": "118",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "pulses"
         },
         {
-            "id": 2,
+            "id": 10,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
             "title": "Green Moong Daal",
             "price": "130",
             "ourprice": "120",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "pulses"
         },
         {
-            "id": 3,
+            "id": 11,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
             "title": "Piece Daal",
             "price": "70",
             "ourprice": "68",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "pulses"
         },
         {
-            "id": 4,
+            "id": 12,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
             "title": "Sambar Daal",
             "price": "69",
             "ourprice": "64",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "pulses"
         },
         {
-            "id": 5,
+            "id": 13,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
             "title": "White Channa",
             "price": "85",
             "ourprice": "80",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "pulses"
         },
         {
-            "id": 6,
+            "id": 14,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
             "title": "Brown Channa",
             "price": "70",
             "ourprice": "65",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "pulses"
         },
         {
-            "id": 7,
+            "id": 15,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
             "title": "Masoori Daal",
             "price": "74",
             "ourprice": "70",
             "quantity": "1",
-            "type": "Kg"
+            "type": "Kg",
+            "category": "pulses"
         }
     ],
     "profile": {
-        "name": "typicode"
+        "id":1,
+        "uname": "niyas@mail.com",
+        "password":"niyas@123"
     }
 }
