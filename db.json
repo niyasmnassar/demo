@@ -1,5 +1,4 @@
-{ 
-  "productLists":  [
+{"productLists":  [
         {
             "id": 1,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
