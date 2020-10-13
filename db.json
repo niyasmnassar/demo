@@ -1,4 +1,5 @@
-{"productLists":  [
+{ 
+  "procategory": [
         {
             "id": 1,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
@@ -78,7 +79,7 @@
             "quantity": "1",
             "type": "Kg",
             "category": "rice"
-        }
+        },
         {
             "id": 9,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
