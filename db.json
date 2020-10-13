@@ -151,18 +151,23 @@
             "category": "dal"
         }
     ],"categorylist":[
+        { 
+            id: 1,
+            category: "all", 
+            value: "all" 
+        },
         {
-            "id": 1,
+            "id": 2,
             "category": "rice",
             "value": "all"
         },
         {
-            "id": 1,
+            "id": 3,
             "category": "pulses",
             "value": "all"
         },
         {
-            "id": 1,
+            "id": 4,
             "category": "dal",
             "value": "all"
         }
