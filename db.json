@@ -108,7 +108,7 @@
             "ourprice": "68",
             "quantity": "1",
             "type": "Kg",
-            "category": "dal"
+            "category": "daal"
         },
         {
             "id": 12,
@@ -118,7 +118,7 @@
             "ourprice": "64",
             "quantity": "1",
             "type": "Kg",
-            "category": "dal"
+            "category": "daal"
         },
         {
             "id": 13,
@@ -148,7 +148,7 @@
             "ourprice": "70",
             "quantity": "1",
             "type": "Kg",
-            "category": "pulses"
+            "category": "daal"
         }
     ],"categorylist":[
         {
