@@ -152,9 +152,9 @@
         }
     ],"categorylist":[
         { 
-            id: 1,
-            category: "all", 
-            value: "all" 
+            "id": 1,
+            "category": "all", 
+            "value": "all" 
         },
         {
             "id": 2,
