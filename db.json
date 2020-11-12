@@ -180,6 +180,28 @@
         },
         "total":35
      }],
+  "bannersliders"[
+    {
+      "id" : 1,
+      "name":"slider1",
+      "url":"banner1.jpg"
+    },
+    {
+      "id" : 2,
+      "name":"slider2",
+      "url":"banner2.jpg"
+    },
+    {
+      "id" : 3,
+      "name":"slider3",
+      "url":"banner3.jpg"
+    },
+    {
+      "id" : 4,
+      "name":"slider4",
+      "url":"banner3.jpg"
+    },
+  ],
     "profile": {
         "name": "typicode"
     }
