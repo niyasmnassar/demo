@@ -1,5 +1,5 @@
-{ 
-  "procategory": [
+{
+    "procategory": [
         {
             "id": 1,
             "proimg": "https://reactstrap.github.io/assets/318x180.svg",
@@ -150,11 +150,12 @@
             "type": "Kg",
             "category": "dal"
         }
-    ],"categorylist":[
-        { 
+    ],
+    "categorylist": [
+        {
             "id": 1,
-            "category": "all", 
-            "value": "all" 
+            "category": "all",
+            "value": "all"
         },
         {
             "id": 2,
@@ -171,37 +172,46 @@
             "category": "dal",
             "value": "all"
         }
-        
     ],
-    "cart":[{
-        "items":{
-          "1":{"name":"Inoculation","quantity":"1","price":"20"},
-          "2":{"name":"Pig","quantity":"3","price":"5"}
+    "cart": [
+        {
+            "items": {
+                "1": {
+                    "name": "Inoculation",
+                    "quantity": "1",
+                    "price": "20"
+                },
+                "2": {
+                    "name": "Pig",
+                    "quantity": "3",
+                    "price": "5"
+                }
+            },
+            "total": 35
+        }
+    ],
+    "bannersliders":[
+        {
+            "id": 1,
+            "name": "slider1",
+            "url": "banner1.jpg"
         },
-        "total":35
-     }],
-  "bannersliders"[
-    {
-      "id" : 1,
-      "name":"slider1",
-      "url":"banner1.jpg"
-    },
-    {
-      "id" : 2,
-      "name":"slider2",
-      "url":"banner2.jpg"
-    },
-    {
-      "id" : 3,
-      "name":"slider3",
-      "url":"banner3.jpg"
-    },
-    {
-      "id" : 4,
-      "name":"slider4",
-      "url":"banner3.jpg"
-    },
-  ],
+        {
+            "id": 2,
+            "name": "slider2",
+            "url": "banner2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "slider3",
+            "url": "banner3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "slider4",
+            "url": "banner3.jpg"
+        }
+    ],
     "profile": {
         "name": "typicode"
     }
