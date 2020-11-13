@@ -194,21 +194,29 @@
         {
             "id": 1,
             "name": "slider1",
+            "title":"Banner Title One",
+            "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est numquam asperiores maiores",
             "url": "banner1.jpg"
         },
         {
             "id": 2,
             "name": "slider2",
+            "title":"Banner Title Two",
+            "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est numquam asperiores maiores",
             "url": "banner2.jpg"
         },
         {
             "id": 3,
             "name": "slider3",
+            "title":"Banner Title Three",
+            "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est numquam asperiores maiores",
             "url": "banner3.jpg"
         },
         {
             "id": 4,
             "name": "slider4",
+            "title":"Banner Title Four",
+            "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est numquam asperiores maiores",
             "url": "banner4.jpg"
         }
     ],
